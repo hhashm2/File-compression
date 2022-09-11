@@ -1,6 +1,8 @@
 //
 // STARTER CODE: hashmap.cpp
 //
+// Humzah Hashmi
+//
 // TODO:  Write your own header and fill in all functions marked TODO below.
 //
 
